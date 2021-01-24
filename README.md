@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/SauravBaba/SauravBaba/screedbot.gif" alt="Saurav Jaiswal Typing" />
+<img src="https://github.com/SauravBaba/SauravBaba/blob/master/screedbot.gif" alt="Saurav Jaiswal Typing" />
 </div>
 
 - ⌨️ Programming Languages I've used:

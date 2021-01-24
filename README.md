@@ -37,7 +37,7 @@
 
     * [**Drop a Mail**](mailto:saurav170899@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/sauravjaiswal/)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/saurav-jaiswal-460812147/)
 
     
     
